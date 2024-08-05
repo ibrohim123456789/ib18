@@ -1,0 +1,14 @@
+@media (max-width: 580px) {
+    header .poster{
+        padding: 10px 0px;
+    }
+    
+    header .poster i{
+        font-size: 25px;
+    }
+    
+    header .poster p{
+        font-size: 12px;
+        
+    }    
+}
